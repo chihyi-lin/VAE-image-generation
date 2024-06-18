@@ -18,6 +18,12 @@ The exercise contains three files:
     - generates images from a checkpoint
     - saves them to a ```results``` sub-directory
 
+      
+## Datasets
+
+[fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
+
+
 ## Tasks
 
 Feel free to use any tricks to improve the quality of the generated images.
