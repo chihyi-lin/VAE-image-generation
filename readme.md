@@ -1,5 +1,5 @@
-# Generation Networks
-
+# Generative Networks - VAE for Image Generation
+> Exercise from Advanced Deep Learning SS23, IMS, Uni Stuttgart
 ## Content
 
 The exercise contains three files:
